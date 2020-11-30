@@ -1,2 +1,3 @@
 # Intern
-AI and ML tasks
+Some of the concepts of  Machine Learning with simple projects 
+
